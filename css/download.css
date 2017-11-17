@@ -1,4 +1,33 @@
 
+.top-nav{
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.avatar{
+    width: 60px;
+    height: 60px;
+}
+
+.bell{
+    padding: 5px;
+    position: relative;
+    bottom: 16px;
+    right: 5px;
+    color: #9c9c9c;
+}
+
+#my-input{
+    position: relative;
+    bottom: 16px;
+}
+
+.search{
+    color: #9c9c9c;
+    position: relative;
+    bottom: 15px;
+    left: 30px;
+}
 
 .download-nav{
     border-bottom: 1px solid #bbbbbb;
@@ -15,11 +44,29 @@
     border-bottom: 2px solid #000;
 }
 
-.progress-bar{
+.progress{
     /*border-bottom: solid 3px #15c578;*/
     color: #15c578;
     font-size: 18px;
     font-weight: 400;
+}
+
+#bar1{
+    border-top: solid 1px #15c578;
+    background-color: #15c578;
+    height: 2px;
+    width: 275px;
+    display: inline;
+}
+
+#bar2{
+    border-top: solid 1px #9c9c9c;
+    background-color: #9c9c9c;
+    height: 2px;
+    width: 70px;
+    display: inline;
+    position: relative;
+    left: 5px;
 }
 
 .comment{
@@ -220,4 +267,39 @@
     color: #ffffff;
     padding-right: 40px;
     padding-left: 40px;
+}
+
+
+
+
+
+.dl-flag-music{
+    padding: 15px 25px;
+    border-top: solid 1px #33cbcc;
+    border-bottom: solid 1px #33cbcc;
+}
+
+.music-desc{
+    padding: 15px 35px;
+    border-top: solid 1px #33cbcc;
+    border-bottom: solid 1px #33cbcc;
+}
+
+.blue-color{
+    color: #33cbcc;
+}
+
+.duration{
+    background-color: #33cbcc;
+    float: left;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    color: #ffffff;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.music-img{
+    height: 20px;
+    width: 140px;
 }
