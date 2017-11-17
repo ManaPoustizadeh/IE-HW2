@@ -70,6 +70,8 @@
     font-weight:500;
     font-size: 14px;
     margin: 8px;
+    position: relative;
+    top: 4px;
 }
 
 .options-menu-item{
@@ -77,7 +79,9 @@
     padding: 5px;
     font-weight:500;
     font-size: 14px;
-    margin: 8px;
+    margin: 10px 8px 8px 8px;
+    position: relative;
+    top: 4px;
 }
 
 .options-all{
@@ -85,11 +89,15 @@
     color: #ffffff;
     border-radius: 5px;
     padding: 5px 12px;
+    position: relative;
+    top: 4px;
 }
 
 .opt-menu-angle{
     float: left;
     color: #cccccc;
+    position: relative;
+    top: 8px;
 }
 
 .list-button{
@@ -100,4 +108,116 @@
     color: #efab6e;
     border: none;
     margin-right: 0;
+    position: relative;
+    top: 4px;
+}
+
+.radio-holder{
+    padding: 20px;
+}
+
+.input-label{
+    margin: 0 10px;
+}
+
+.bluRay{
+    color: #3a6ee8;
+    border-bottom: solid 1px #3a6ee8;
+    padding: 0;
+}
+
+.bluRay-text{
+    border-bottom: solid 2px #3a6ee8;
+    padding: 0 15px;
+}
+
+.movie-row{
+    /*background-color: #3a6ee8;*/
+    margin: 15px 0;
+    border-radius: 7px;
+}
+
+.size{
+    background-color: #141414;
+    color: #ffffff;
+    padding: 15px 20px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.download-icon{
+    margin: 0 10px;
+}
+
+.download-desc{
+    margin: 0 20px;
+}
+
+.language{
+    background-color: #1e1e1e;
+    color: #ffffff;
+    padding: 15px 35px;
+}
+
+.dl-basket{
+    color: #ffffff;
+    background-color: #2b2b2b;
+    padding: 15px 20px;
+}
+
+.dl-flag1080{
+    padding: 15px 25px;
+    border-top: solid 1px #15c578;
+    border-bottom: solid 1px #15c578;
+}
+
+.movie-desc1080{
+    padding: 15px 35px;
+    text-align: left;
+    border-top: solid 1px #15c578;
+    border-bottom: solid 1px #15c578;
+}
+
+.green-color{
+    color: #15c578;
+}
+
+.quality1080{
+    background-color: #15c578;
+    float: left;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    color: #ffffff;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+
+
+
+.dl-flag720{
+    padding: 15px 25px;
+    border-top: solid 1px #f8d40e;
+    border-bottom: solid 1px #f8d40e;
+}
+
+.movie-desc720{
+    padding: 15px 35px;
+    text-align: left;
+    border-top: solid 1px #f8d40e;
+    border-bottom: solid 1px #f8d40e;
+}
+
+.yellow-color{
+    color: #f8d40e;
+}
+
+.quality720{
+    background-color: #f8d40e;
+    float: left;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    color: #ffffff;
+    padding-right: 40px;
+    padding-left: 40px;
 }
