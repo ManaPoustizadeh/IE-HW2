@@ -99,7 +99,7 @@
     color: #9e9f9f;
     position: relative;
     top: 15px;
-    left: 30px;
+    left: 80px;
 }
 
 #accept:focus{
@@ -116,4 +116,12 @@
     color: #ffffff;
     padding: 5px 40px;
     margin: 15px;
+}
+
+.captcha{
+    width: 50px;
+    height: 32px;
+    position: relative;
+    left: 65px;
+    top: 7px;
 }
