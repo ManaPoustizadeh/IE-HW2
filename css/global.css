@@ -7,6 +7,23 @@ body, button, input{
 
 body{
     margin: 0;
+    overflow-y: auto;
+}
+
+.scroll-bar::-webkit-scrollbar-track {
+    -webkit-box-shadow: none;
+    background-color: #F5F5F5;
+}
+
+.scroll-bar::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+}
+
+.scroll-bar::-webkit-scrollbar-thumb {
+    background-color: #3a6ee8;
+color-stop(.5, rgba(255, 255, 255, .2)),
+color-stop(.5, transparent), to(transparent));
 }
 
 button{
