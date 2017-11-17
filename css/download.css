@@ -91,3 +91,13 @@
     float: left;
     color: #cccccc;
 }
+
+.list-button{
+    color: #999999;
+}
+
+.guide{
+    color: #efab6e;
+    border: none;
+    margin-right: 0;
+}
