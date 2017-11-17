@@ -1,0 +1,93 @@
+
+
+.download-nav{
+    border-bottom: 1px solid #bbbbbb;
+    padding: 0 70px 0 0;
+}
+
+.dl-li{
+    padding: 15px;
+    /*border-bottom: 1px solid #bbbbbb;*/
+}
+
+
+.active{
+    border-bottom: 2px solid #000;
+}
+
+.progress-bar{
+    /*border-bottom: solid 3px #15c578;*/
+    color: #15c578;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.comment{
+    margin: 30px 10px;
+}
+
+.recommend{
+    color: #3a6ee8;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 35px;
+}
+
+.value{
+    margin: 0;
+}
+
+.val-desc{
+    color: #cccccc;
+    font-weight:500;
+    font-size: 15px;
+}
+
+.your-rate{
+    color: #cccccc;
+    margin:0;
+}
+
+.rate-button{
+    background-color: #3a6ee8;
+    color: #ffffff;
+    margin-top: 10px;
+    padding: 5px 15px;
+}
+
+.options-menu{
+    border: solid 1px #cccccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 10px;
+}
+
+.options-menu-lang{
+    border: solid 1px #666666;
+    border-radius: 5px;
+    padding: 5px;
+    color: #666;
+    font-weight:500;
+    font-size: 14px;
+    margin: 8px;
+}
+
+.options-menu-item{
+    color: #999999;
+    padding: 5px;
+    font-weight:500;
+    font-size: 14px;
+    margin: 8px;
+}
+
+.options-all{
+    background-color: #3a6ee8;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 12px;
+}
+
+.opt-menu-angle{
+    float: left;
+    color: #cccccc;
+}

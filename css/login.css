@@ -1,0 +1,124 @@
+
+.login-card{
+    text-align: center;
+}
+
+.modal-close{
+    background-color: #cccccc;
+    text-align: right;
+    padding: 5px 10px;
+    color: #ffffff;
+}
+
+.tab{
+    text-align: center;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 100px auto 0 auto;
+    width: 40%;
+    color: #999;
+}
+
+.tab-button {
+    background-color: #f1f1f1;
+    text-align: center;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 0;
+    min-width: 49.5%;
+}
+
+#login{
+    background-color: #ffffff;
+}
+
+.tab-content{
+    background-color: #ffffff;
+}
+
+.google{
+    background-color: #d43533;
+    color: #ffffff;
+    padding: 5px 20px;
+    margin: 15px;
+}
+
+.divider{
+    position: relative;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.divider:before{
+    position: absolute;
+    content: "";
+    height: 1px;
+    width: 100%;
+    background: #d4d4d4;
+    top: 50%;
+    left: 0;
+}
+
+.or{
+    border: 1px solid #d4d4d4;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    line-height: 32px;
+    color: #bbb;
+    position: relative;
+    background: #fff;
+}
+
+.label{
+    margin-top: 10px;
+}
+
+.input{
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    border: solid 1px #d4d4d4;
+    width: 100px;
+    padding: 8px 12px 8px 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.input:focus{
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    border: solid 1px rgba(81, 203, 238, 1);
+    outline: none;
+}
+
+.refresh{
+    color: #9e9f9f;
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+
+.remember-me:focus{
+    border: none;
+    outline:none;
+}
+
+.forgot-pass{
+    position: relative;
+    right: 70px;
+    display: inline;
+}
+
+.button-holder{
+    text-align: center;
+}
+
+.login-button{
+    background-color: #15c578;
+    color: #ffffff;
+    padding: 5px 40px;
+    margin: 15px;
+}

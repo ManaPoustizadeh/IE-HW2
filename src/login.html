@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/grid.css" type="text/css">
+    <link rel="stylesheet" href="../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../css/login.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Login</title>
+</head>
+<body>
+<div class="container login-card">
+    <div class="tab">
+        <div class="modal-close">
+            <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+        <button class="tab-button" id="login">ورود</button>
+        <button class="tab-button" id="register">عضویت</button>
+        <div class="tab-content">
+            <button class="google">
+                <i class="fa fa-google-plus" aria-hidden="true"></i>
+ورود با حساب کاربری گوگل</button>
+            <div class="divider">
+                <span class="or">یا</span>
+            </div>
+        </div>
+        <form>
+            <div class="row">
+                <label class="label col-sm-3" for="user-id">شناسه ورود</label>
+                <input class="input col-sm-6" type="text" id="user-id" name="user-id" placeholder="شماره موبایل یا ایمیل">
+            </div>
+            <div class="row">
+                <label class="label col-sm-3" for="password">رمز عبور</label>
+                <input class="input col-sm-6" type="password" id="password" name="password" placeholder="رمز عبور">
+            </div>
+            <div class="row">
+                <label class="label col-sm-3" for="code">کد امنیتی</label>
+                <input class="input col-sm-6" type="text" id="code" name="code" placeholder="کد امنیتی">
+                <i class="fa fa-refresh refresh" aria-hidden="true"></i>
+            </div>
+        </form>
+        <input id="remember-me" type="checkbox"/>
+        <label>مرا به خاطر بسپار</label>
+        <h6 class="forgot-pass">بازیابی رمز عبور</h6>
+        <div class="button-holder">
+            <button class="login-button">ورود</button>
+        </div>
+    </div>
+</div>
+</body>
+</html>

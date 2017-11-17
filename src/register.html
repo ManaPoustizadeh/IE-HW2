@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../css/grid.css" type="text/css">
+    <link rel="stylesheet" href="../css/global.css" type="text/css">
+    <link rel="stylesheet" href="../css/register.css" type="text/css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Register</title>
+</head>
+<body>
+<div class="container login-card">
+    <div class="tab">
+        <div class="modal-close">
+            <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+        <button class="tab-button" id="login">ورود</button>
+        <button class="tab-button" id="register">عضویت</button>
+        <div class="tab-content">
+            <button class="google">
+                <i class="fa fa-google-plus" aria-hidden="true"></i>
+                ورود با حساب کاربری گوگل</button>
+            <div class="divider">
+                <span class="or">یا</span>
+            </div>
+        </div>
+        <form>
+            <div class="row">
+                <label class="label col-sm-3" for="user-id">ایمیل</label>
+                <input class="input col-sm-6" type="text" id="user-id" name="user-id" placeholder="ایمیل">
+            </div>
+            <div class="row">
+                <label class="label col-sm-3" for="password">رمز عبور</label>
+                <input class="input col-sm-6" type="password" id="password" name="password" placeholder="رمز عبور">
+            </div>
+            <div class="row">
+                <label class="label col-sm-3" for="password2">تکرار رمز عبور</label>
+                <input class="input col-sm-6" type="password" id="password2" name="password" placeholder="تکرار رمز عبور    ">
+            </div>
+            <div class="row">
+                <label class="label col-sm-3" for="invite">کد دعوت</label>
+                <input class="input col-sm-6" type="text" id="invite" name="user-id" placeholder="کد دعوت (اختیاری)">
+            </div>
+            <div class="row">
+                <label class="label col-sm-3" for="code">کد امنیتی</label>
+                <input class="input col-sm-6" type="text" id="code" name="code" placeholder="کد امنیتی">
+                <i class="fa fa-refresh refresh" aria-hidden="true"></i>
+            </div>
+        </form>
+        <input id="accept" type="checkbox"/>
+        <label>قوانین را مطالعه کردم و می‌پذیرم</label>
+        <div class="button-holder">
+            <button class="register-button">عضویت</button>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,70 @@
+body, button, input{
+    direction: rtl;
+    font-family: 'shabnam', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+}
+
+body{
+    margin: 0;
+}
+
+button{
+    background-color: transparent;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    border-radius: 5px;
+    height: 30px;
+}
+
+form{
+    padding-bottom: 50px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    border-top: solid 1px #bbbbbb;
+}
+
+p{
+    text-align: justify;
+}
+
+@font-face {
+    font-family: "shabnam";
+    src: url("fonts/shabnam-font/Shabnam.eot");
+    src:
+            url("fonts/shabnam-font/Shabnam.woff") format("woff");
+}
+
+
+.top-menu{
+    background-color: #f4f4f4;
+    padding: 8px;
+    color: #9c9c9c;
+}
+
+.top-menu-item{
+    margin-right: 8px;
+    margin-left: 8px;
+}
+
+.top-menu-item:hover{
+    color: #666;
+}
+
+.horizontal{
+    display: inline;
+}
+
+.center{
+    text-align: center;
+}

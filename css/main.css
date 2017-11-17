@@ -1,0 +1,89 @@
+.login-btn{
+    background-color: transparent;
+    color: #3a6ee8;
+    border: solid 1px #3a6ee8;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.login-btn:hover{
+    background-color: #3a6ee8;
+    color: white;
+}
+
+.input{
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 12px 8px 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 250px;
+    margin-right: 650px;
+}
+
+.footer{
+    margin-top: 350px;
+}
+
+.footer-container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+.footer-links{
+    color: #616161;
+}
+
+.footer-link:hover{
+    color: #3a6ee8;
+}
+
+.footer-link{
+    display: inline;
+    margin: 2px;
+}
+
+.footer-links li:not(:first-child):before {
+    content: " | ";
+}
+
+.footer-banner{
+    border: solid 2px #999;
+    border-radius: 7px;
+    color: #616161;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 15px;
+    margin: 0px 0px 10px 0px;
+}
+
+.footer-desc{
+    text-align: justify;
+    padding-right: 15px;
+}
+
+.footer-logo{
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    filter: grayscale(100%);
+}
+
+.footer-logo:hover{
+    filter: grayscale(0%);
+}
+
+.footer-end{
+    border-bottom: none;
+    border-top: solid 1px #3a6ee8;
+}
+
+.copyright{
+    color: #3a6ee8;
+    font-size: 12px;
+    text-align: center;
+}
