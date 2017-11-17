@@ -17,6 +17,17 @@
     color: #9c9c9c;
 }
 
+.input{
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 12px 8px 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 250px;
+    margin-right: 650px;
+}
+
 #my-input{
     position: relative;
     bottom: 16px;
@@ -41,6 +52,9 @@
 
 
 .active{
+    border-bottom: 2px solid #000;
+}
+.dl-li:hover{
     border-bottom: 2px solid #000;
 }
 
@@ -100,6 +114,10 @@
     color: #ffffff;
     margin-top: 10px;
     padding: 5px 15px;
+}
+
+.rate-button:hover{
+    background-color: #5485ff;
 }
 
 .options-menu{
@@ -295,8 +313,8 @@
     border-bottom-left-radius: 7px;
     border-top-left-radius: 7px;
     color: #ffffff;
-    padding-right: 40px;
-    padding-left: 40px;
+    padding-right: 55px;
+    padding-left: 55px;
 }
 
 .music-img{

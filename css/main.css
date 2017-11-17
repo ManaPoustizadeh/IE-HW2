@@ -1,3 +1,7 @@
+.header{
+    padding-top: 10px;
+}
+
 .login-btn{
     background-color: transparent;
     color: #3a6ee8;
@@ -9,6 +13,26 @@
 .login-btn:hover{
     background-color: #3a6ee8;
     color: white;
+}
+
+.gas{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    right: 10px;
+    top: 15px;
+}
+
+.input{
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 12px 8px 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 250px;
+    margin-right: 650px;
 }
 
 .search{
@@ -63,13 +87,27 @@
 
 .footer-logo{
     margin: 5px;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     filter: grayscale(100%);
 }
 
-.footer-logo:hover{
-    filter: grayscale(0%);
+/*.footer-logo:hover{*/
+    /*filter: grayscale(0%);*/
+/*}*/
+
+.instagram{
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #8e8e8e;
+    color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    width: 50px;
+    height: 50px;
 }
 
 .footer-end{

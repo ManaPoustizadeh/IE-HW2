@@ -45,17 +45,6 @@ p{
             url("fonts/shabnam-font/Shabnam.woff") format("woff");
 }
 
-.input{
-    background-color: #f4f4f4;
-    border-radius: 5px;
-    border: none;
-    padding: 8px 12px 8px 12px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    width: 250px;
-    margin-right: 650px;
-}
-
 .top-menu{
     background-color: #f4f4f4;
     padding: 8px;
@@ -87,3 +76,6 @@ p{
     float: right;
 }
 
+button:hover{
+    filter: opacity(80%);
+}
