@@ -79,3 +79,7 @@ p{
 button:hover{
     filter: opacity(80%);
 }
+
+.required{
+    color: red;
+}

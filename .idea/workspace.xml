@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7490807f-d632-4675-8130-b10c3638d8ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/gas.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/download.css" afterPath="$PROJECT_DIR$/css/download.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/global.css" afterPath="$PROJECT_DIR$/css/global.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/register.css" afterPath="$PROJECT_DIR$/css/register.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.html" afterPath="$PROJECT_DIR$/src/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/login.html" afterPath="$PROJECT_DIR$/src/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/register.html" afterPath="$PROJECT_DIR$/src/register.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="661">
-              <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+            <state relative-caret-position="724">
+              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="91" lean-forward="false" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -74,8 +82,8 @@
       <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="472">
+              <caret line="45" column="66" lean-forward="true" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -84,8 +92,8 @@
       <file leaf-file-name="register.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/register.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="745">
+              <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,15 +164,15 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/src/login.html" />
-        <option value="$PROJECT_DIR$/src/register.html" />
         <option value="$PROJECT_DIR$/css/login.css" />
         <option value="$PROJECT_DIR$/src/download.html" />
         <option value="$PROJECT_DIR$/src/main.html" />
-        <option value="$PROJECT_DIR$/css/register.css" />
         <option value="$PROJECT_DIR$/css/download.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/src/register.html" />
+        <option value="$PROJECT_DIR$/css/register.css" />
         <option value="$PROJECT_DIR$/css/global.css" />
+        <option value="$PROJECT_DIR$/src/login.html" />
       </list>
     </option>
   </component>
@@ -284,7 +292,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="SearchEverywhereHistoryKey" value="re&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/css/register.css&#10;reg&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/src/register.html&#10;down&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/css/download.css&#10;main&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/src/main.html&#10;mai&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/css/main.css" />
+    <property name="SearchEverywhereHistoryKey" value="login&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/src/login.html&#10;re&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/css/register.css&#10;reg&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/src/register.html&#10;down&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/css/download.css&#10;main&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/src/main.html&#10;mai&#9;FILE&#9;file://C:/Users/manap/IdeaProjects/IE_HW2/css/main.css" />
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
@@ -731,7 +739,7 @@
       <updated>1509436006890</updated>
       <workItem from="1509436033579" duration="10894000" />
       <workItem from="1510472253765" duration="11898000" />
-      <workItem from="1510752903506" duration="50446000" />
+      <workItem from="1510752903506" duration="51022000" />
     </task>
     <task id="LOCAL-00001" summary="adds icons">
       <created>1510922689028</created>
@@ -754,11 +762,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510934523101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adds gas icon&#10;fixes bugs">
+      <created>1510938605644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510938605644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73238000" />
+    <option name="totallyTimeSpent" value="73814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -804,7 +819,8 @@
     <MESSAGE value="adds icons" />
     <MESSAGE value="adds movie rows" />
     <MESSAGE value="adds progress bar and search icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds progress bar and search icon" />
+    <MESSAGE value="adds gas icon&#10;fixes bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="adds gas icon&#10;fixes bugs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -852,14 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="117" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -884,22 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/register.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/download.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -918,8 +910,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+        <state relative-caret-position="724">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="45" column="66" lean-forward="true" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="91" lean-forward="false" selection-start-line="36" selection-start-column="91" selection-end-line="36" selection-end-column="91" />
           <folding />
         </state>
       </provider>
